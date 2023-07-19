@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "PCM2704DB")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_PCM2704DB/footprints.pretty")(options "")(descr "Audio DAC IC"))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lib/Library.pretty")(options "")(descr ""))
+  (lib (name "cap")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_50YXJ10M5X11/footprints.pretty")(options "")(descr ""))
+)

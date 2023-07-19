@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "PCM2704DB")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_PCM2704DB/PCM2704DB.kicad_sym")(options "")(descr ""))
-  (lib (name "2023-07-10_14-36-02")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_50YXJ10M5X11/2023-07-10_14-36-02.kicad_sym")(options "")(descr ""))
-)
