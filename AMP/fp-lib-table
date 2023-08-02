@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AUDIO_ECAD")(type "KiCad")(uri "C:/Users/Daniel/Documents/GitHub/audio-stuff/ecad lib/footprints.pretty")(options "")(descr ""))
+)
