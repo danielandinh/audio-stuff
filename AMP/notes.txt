@@ -1,0 +1,3 @@
+https://www.allaboutcircuits.com/technical-articles/x7r-x5r-c0g...-a-concise-guide-to-ceramic-capacitor-types/
+https://www.ti.com/lit/an/slyt796a/slyt796a.pdf
+https://electronics.stackexchange.com/questions/232631/ceramic-caps-vs-electrolytic-what-are-the-tangible-differences-in-use
