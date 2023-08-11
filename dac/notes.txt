@@ -1,4 +1,0 @@
-CRYSTAL OSCILLATOR:
-allaboutcircuits.com/technical-articles/understanding-the-operation-of-quartz-crystal-oscillators/
-allaboutcircuits.com/technical-articles/assessing-effect-of-load-capacitance-on-frequency-of-quartz-crystal/
-
